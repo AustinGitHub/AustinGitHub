@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gym Companion</string>
+    <string name="reminder_title">Gym reminder</string>
+    <string name="reminder_body">Time to move! Your scheduled gym session is waiting.</string>
+    <string name="subscription_title">Pro Features</string>
+    <string name="subscription_description">Unlock guided workouts, tips, and unlimited reminders.</string>
+</resources>
